@@ -19,3 +19,9 @@ https://www.amazon.com/DevOps-Modern-Enterprise-Practices-Organizations/dp/19427
 Conociendo Azure DevOpsClase 4 / 20
 
 https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+
+Creando una cuenta en Azure DevOpsClase 5 / 20
+
+https://azure.microsoft.com/en-us/products/devops/
+
+https://azure.microsoft.com/es-es/resources/research/
