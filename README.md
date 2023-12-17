@@ -25,3 +25,10 @@ Creando una cuenta en Azure DevOpsClase 5 / 20
 https://azure.microsoft.com/en-us/products/devops/
 
 https://azure.microsoft.com/es-es/resources/research/
+
+
+Analizando aspectos de seguridadClase 9 / 20
+
+![image](https://github.com/bartoligerman497/Curso-Azure-DevOps-Flujos-CI-CD-Platzi/assets/53313625/22f56440-bc25-46d4-9882-02f1f047f801)
+
+https://docs.microsoft.com/en-us/azure/devops/organizations/security/about-permissions
