@@ -2,6 +2,8 @@
 
 Links:
 
+https://dev.azure.com/bartoligerman497/
+
 https://portal.azure.com/#home
 
 ¿Qué es DevOps?Clase 3 / 20
