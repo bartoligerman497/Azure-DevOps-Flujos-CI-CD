@@ -36,3 +36,7 @@ Analizando aspectos de seguridadClase 9 / 20
 ![image](https://github.com/bartoligerman497/Curso-Azure-DevOps-Flujos-CI-CD-Platzi/assets/53313625/22f56440-bc25-46d4-9882-02f1f047f801)
 
 https://docs.microsoft.com/en-us/azure/devops/organizations/security/about-permissions
+
+Azure DevOps MarketPlaceClase 19 / 20
+
+https://marketplace.visualstudio.com/azuredevops
